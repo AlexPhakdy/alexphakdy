@@ -5,6 +5,7 @@
 
 🚀 Projects: Some highlights include:
 
+- **Freshe Poke (UI Case Study Concept)**: A concept mobile app for a Columbia, SC poke restaurant, designed to showcase a seamless ordering experience, customizable bowls, and loyalty rewards.
 - **MajorHelp**: A tool to help students find colleges that align with their goals and budgets.
 - **FlyEazy**: A travel booking app inspired by Expedia, focused on delivering a seamless user experience.
 - **KuriKicks**: An online sneaker store where users can list, buy, and explore sneaker collections.
