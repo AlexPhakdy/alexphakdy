@@ -1,4 +1,4 @@
-👋 **Hi, I’m Alex Phakdy!**  
+👋 **Hi, I’m Alexander Phakdy!**  
 🎓 **Computer Information Systems major** with a **minor in Business Information Management** at the University of South Carolina. Passionate about web development and UI/UX design, I enjoy creating user-centered web applications with seamless, intuitive interfaces and a focus on cohesive app experiences.
 
 💻 Skills: Experienced with HTML, CSS, Django, MongoDB, Python, Figma, Flexbox, and more. I love tackling both frontend and backend challenges.
