@@ -4,7 +4,7 @@
 💻 Skills: Experienced with HTML, CSS, Django, MongoDB, Python, Figma, Flexbox, and more. I love tackling both frontend and backend challenges.
 
 🚀 Projects: Some highlights include:
-- **Kuri maki**: A website for a self-catering sushi business, designed to showcase menus, highlight catering options, and present pricing in a clean, user-friendly layout. The site focuses on visual appeal, intuitive navigation, and responsive design for both desktop and mobile users.
+- **Kuri Maki**: A website for a self-catering sushi business, designed to showcase menus, highlight catering options, and present pricing in a clean, user-friendly layout. The site focuses on visual appeal, intuitive navigation, and responsive design for both desktop and mobile users.
 - **Freshe Poke (UI Case Study Concept)**: A concept mobile app for a Columbia, SC poke restaurant, designed to showcase a seamless ordering experience, customizable bowls, and loyalty rewards.
 - **MajorHelp**: A tool to help students find colleges that align with their goals and budgets.
 - **FlyEazy**: A travel booking app inspired by Expedia, focused on delivering a seamless user experience.
